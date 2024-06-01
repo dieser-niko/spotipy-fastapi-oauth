@@ -1,7 +1,7 @@
 # spotipy-fastapi-oauth
 This is a simple example of using Spotipy with FastAPI with multi-user support.
 
-> [!CAUTION]
+> [!Warning]
 > I have no experience with FastAPI and this was pretty much the first time in two years that I've written anything with FastAPI.
 
 ## Setup
